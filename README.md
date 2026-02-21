@@ -183,25 +183,3 @@ If implemented:
 * Build interactive dashboard (Streamlit / Power BI)
 
 ---
-
-That README is strong enough for interviews.
-
----
-
-# ✅ 4️⃣ requirements.txt (Add This)
-
-Create a file:
-
-`requirements.txt`
-
-Add:
-
-```
-pandas
-numpy
-matplotlib
-seaborn
-jupyter
-```
-
----
